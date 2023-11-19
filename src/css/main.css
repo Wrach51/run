@@ -276,4 +276,77 @@ body {
 
 .slick-list {
   margin: 0 -15px;
+}
+
+.reviews-info {
+  width: 40%;
+}
+.reviews-header {
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 100px;
+  letter-spacing: -2px;
+  margin-bottom: 380px;
+  color: #000;
+}
+.reviews-model {
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 22px;
+  line-height: 30px;
+}
+.reviews-desc {
+  color: #000;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+}
+.reviews-block {
+  display: flex;
+}
+.reviews-right {
+  width: 60%;
+}
+.reviews-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.reviews-image img {
+  width: 472px;
+  height: 791px;
+}
+.reviews-text {
+  margin-left: 85px;
+}
+.reviews-text p {
+  color: rgba(0, 0, 0, 0.45);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  margin-top: 110px;
+}
+.reviews-text p span {
+  color: #000;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+}
+.reviews-text span {
+  color: #000;
+  font-size: 22px;
+  line-height: 30px;
+}
+.reviews-arrows {
+  display: flex;
+  margin-bottom: 230px;
+}
+.reviews-arrows > div {
+  background: rgba(0, 0, 0, 0.03);
+  width: 33px;
+  height: 33px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  cursor: pointer;
 }/*# sourceMappingURL=main.css.map */
